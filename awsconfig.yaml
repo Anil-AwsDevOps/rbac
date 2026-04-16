@@ -16,7 +16,7 @@ data:
       userarn: arn:aws:iam::229566297913:user/ramesh
       username: ramesh
     - groups:
-      - roboshop-admin
+      - roboshop-trainee
       userarn: arn:aws:iam::229566297913:user/john
       username: john
 kind: ConfigMap
